@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="takeoff" id="b0!KPlzPsC-C!D1xo9FI" x="-150" y="-10"><next><block type="square" id="*;DDBf!SMad.val7WYqU"><field name="DIRECTION">right</field><next><block type="land" id="DsYMF^Oxagt0SHfI=Xt4"></block></next></block></next></block></xml>
